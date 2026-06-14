@@ -14,3 +14,16 @@ The system executes sequentially through the following pipeline phases:
 * **4. Camera 2 Tracking (PnP):** The script isolates common features visible simultaneously across the *Reference Camera, Camera 1, and Camera 2*. Mapping these known optimized 3D coordinates to Camera 2’s 2D image plane allows the **Perspective-n-Point (PnP)** algorithm to localize Camera 2 within the workspace.
 * **5. Multi-Camera Optimization Pass:** A global Bundle Adjustment runs simultaneously across all three modern camera frames to bundle their shared constraints.
 * **6. Cross-Timeline Localization (DLT):** An unaligned historical view is introduced. By pairing its features with our modern structural map, the **Direct Linear Transform (DLT)** algorithm extracts the historical camera's raw projection matrix, which is then specifically refined through its own adjustment loop.
+
+
+## Workspace
+
+├── Data/
+│   ├── Colmap/         # Validation transformation coordinates
+│   ├── Images/         # Workspace camera source images (Ref, Cam1, Cam2, Old)
+│   ├── Superglue/      # Feature descriptor packages (.npz arrays)
+│   └── P_old_ref/      # Historical camera baseline configuration configurations
+├── Calibration/
+│   └── K_new_cam.txt   # Camera intrinsic sensor property matrix
+├── main.py             # Main execution file
+└── utils.py            # Computer vision and plotting helper functions
