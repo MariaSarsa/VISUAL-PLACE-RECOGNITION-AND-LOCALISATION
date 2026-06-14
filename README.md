@@ -18,12 +18,17 @@ The system executes sequentially through the following pipeline phases:
 
 ## Workspace
 
-├── Data/
-│   ├── Colmap/         # Validation transformation coordinates
-│   ├── Images/         # Workspace camera source images (Ref, Cam1, Cam2, Old)
-│   ├── Superglue/      # Feature descriptor packages (.npz arrays)
-│   └── P_old_ref/      # Historical camera baseline configuration configurations
-├── Calibration/
-│   └── K_new_cam.txt   # Camera intrinsic sensor property matrix
-├── main.py             # Main execution file
-└── utils.py            # Computer vision and plotting helper functions
+## 📂 Workspace
+
+The project files are organized into the following structure:
+
+* **📁 Data/** 
+  * **📁 Colmap/** — # Validation transformation coordinates
+  * **📁 Images/** — # Workspace camera source images (Ref, Cam1, Cam2, Old)
+  * **📁 Superglue/** —   # Feature descriptor packages (.npz arrays)
+  * **📁 P_old_ref/** — # Historical camera baseline configuration configurations
+* **📁 Calibration/** 
+  * **📄 K_new_cam.txt** — # Camera intrinsic sensor property matrix
+* **🐍 main.py** —  # Main execution file
+* **🐍 utils.py** — # Computer vision and plotting helper functions 
+
