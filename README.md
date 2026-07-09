@@ -65,10 +65,6 @@ The system executes sequentially through the following pipeline phases:
       <img alt="Superglue matches between modern photos" src="https://github.com/user-attachments/assets/69d40267-1c2b-46c8-9d44-e9dc786eba37" width="60%"/>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-    </td>
-  </tr>
 </table>
 
 <table>
@@ -77,11 +73,16 @@ The system executes sequentially through the following pipeline phases:
       <img alt="Structre from Motion (8 points) --> estimating camera 1 pose" src="https://github.com/user-attachments/assets/071d6ac9-50f8-4b46-a903-df44ec6a3640" width="60%"/>
     </td>
   </tr>
+</table>
+
+<table>
   <tr>
     <td align="center">
+      <img alt="Adding a third camera" src="https://github.com/user-attachments/assets/01df66fc-8da3-44da-bf0c-a32534c70026" width="60%"/>
     </td>
   </tr>
 </table>
+
 
 ## Workspace
 
