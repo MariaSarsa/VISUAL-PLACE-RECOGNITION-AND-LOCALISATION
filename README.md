@@ -112,10 +112,11 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tr>
     <td align="center">
-      <img alt="Real scale" src="https://github.com/user-attachments/assets/4f1e122e-6a55-4ba7-b723-36d4f5d7bedd" width="60%"/>
+      <img alt="Real scale" src="https://github.com/user-attachments/assets/37df0716-ccc3-46eb-ba73-3c3f6af6407c" width="60%"/>
     </td>
   </tr>
 </table>
+
 
 
 ## Workspace
