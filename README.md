@@ -117,7 +117,30 @@ The system executes sequentially through the following pipeline phases:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Reconstructions" src="https://github.com/user-attachments/assets/671849d9-adaf-4d84-a634-36b49f7722ec" width="60%"/>
+    </td>
+  </tr>
+</table>
 
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Results table" src="https://github.com/user-attachments/assets/bd1c328d-09f4-4198-92b3-a0267644b664" width="60%"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Cameras error table" src="https://github.com/user-attachments/assets/934bac70-87e1-4fb5-a659-7b6922c4e544" width="60%"/>
+    </td>
+  </tr>
+</table>
 
 ## Workspace
 
