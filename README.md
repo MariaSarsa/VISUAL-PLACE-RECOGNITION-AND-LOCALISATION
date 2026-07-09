@@ -87,7 +87,7 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tr>
     <td align="center">
-      <img alt="PnP: estimating camera 2 pose" src="https://github.com/user-attachments/assets/ca1d98d4-df10-481b-b3b1-29f71eb7ecb3" width="60%"/>
+      <img alt="PnP: estimating camera 2 pose" src="https://github.com/user-attachments/assets/c3184114-dcd2-4c36-9285-369a85b11391" width="60%"/>
     </td>
   </tr>
 </table>
