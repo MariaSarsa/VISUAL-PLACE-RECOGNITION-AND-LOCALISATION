@@ -70,7 +70,8 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tr>
     <td align="center">
-      <img alt="Structure from Motion (8 points): estimating camera 1 pose" src="https://github.com/user-attachments/assets/046f231e-2455-441a-ad2d-87b041556453" width="60%"/>
+      <img alt="Structure from Motion (8 points): estimating camera 1 pose" src="https://github.com/user-attachments/assets/e09fd028-aaf9-4937-b033-f6f6f813067e"
+ width="60%"/>
     </td>
   </tr>
 </table>
@@ -78,10 +79,11 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tr>
     <td align="center">
-      <img alt="Adding a third camera" src="https://github.com/user-attachments/assets/8a12146e-b677-4bf2-850a-b11331277b07" width="60%"/>
+      <img alt="Adding a third camera" src="https://github.com/user-attachments/assets/17f450ce-7668-45f2-a137-39173f652cee" width="60%"/>
     </td>
   </tr>
 </table>
+
 
 
 ## Workspace
