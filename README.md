@@ -4,6 +4,20 @@ A Computer Vision pipeline capable of taking multi-view imagery, reconstructing 
 This project implements an incremental Structure from Motion (SfM) computer vision pipeline designed to solve a challenging spatial and historical alignment problem. 
 In particular its main objective is to determine where a picture (the one used was taken around 150 years ago) was taken from.
 
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Historical Query Image" src="https://github.com/user-attachments/assets/f20c1dfe-4367-4d54-898c-5ab8bc1e2015" width="60%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <sub><b>Figure 14:</b> Pilar basilica picture dated before 1866.<br>
+      <b>Source / Archive:</b> Obtained from <a href="https://commons.wikimedia.org/w/index.php?curid=24970366" target="_blank"></a>.</sub>
+    </td>
+  </tr>
+</table>
+
 ## Technical Workflow and Architecture
 
 The system executes sequentially through the following pipeline phases:
@@ -18,17 +32,15 @@ The system executes sequentially through the following pipeline phases:
 
 ## Workspace
 
-## 📂 Workspace
-
 The project files are organized into the following structure:
 
-* **📁 Data/** 
-  * **📁 Colmap/** — # Validation transformation coordinates
-  * **📁 Images/** — # Workspace camera source images (Ref, Cam1, Cam2, Old)
-  * **📁 Superglue/** —   # Feature descriptor packages (.npz arrays)
-  * **📁 P_old_ref/** — # Historical camera baseline configuration configurations
-* **📁 Calibration/** 
-  * **📄 K_new_cam.txt** — # Camera intrinsic sensor property matrix
-* **🐍 main.py** —  # Main execution file
-* **🐍 utils.py** — # Computer vision and plotting helper functions 
+* ** Data/** 
+  * ** Colmap/** — # Validation transformation coordinates
+  * ** Images/** — # Workspace camera source images (Ref, Cam1, Cam2, Old)
+  * ** Superglue/** —   # Feature descriptor packages (.npz arrays)
+  * ** P_old_ref/** — # Historical camera baseline configuration configurations
+* ** Calibration/** 
+  * ** K_new_cam.txt** — # Camera intrinsic sensor property matrix
+* ** main.py** —  # Main execution file
+* ** utils.py** — # Computer vision and plotting helper functions 
 
