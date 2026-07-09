@@ -35,24 +35,24 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tbody>
     <tr>
-      <td width="60%" rowspan="3" align="center" valign="middle">
+      <td width="65%" rowspan="3" align="center" valign="middle">
         <img alt="Modern photos location" src="https://github.com/user-attachments/assets/ae046caf-879c-4bf7-86ed-0de908665ed0" width="100%" />
         <br>
       </td>
-      <td width="40%" align="center">
-        <img alt="A" src="https://github.com/user-attachments/assets/32610cc8-c5bb-4f44-9886-bb66ce319306" width="100%" />
+      <td width="35%" align="center">
+        <img alt="A" src="https://github.com/user-attachments/assets/32610cc8-c5bb-4f44-9886-bb66ce319306" width="65%" />
         <br>
       </td>
     </tr>
     <tr>
-      <td width="40%" align="center">
-        <img alt="B" src="https://github.com/user-attachments/assets/7a87dd50-56b0-4bb7-a73a-b78bc4ab0b79" width="100%" />
+      <td width="35%" align="center">
+        <img alt="B" src="https://github.com/user-attachments/assets/7a87dd50-56b0-4bb7-a73a-b78bc4ab0b79" width="65%" />
         <br>
       </td>
     </tr>
     <tr>
-      <td width="40%" align="center">
-        <img alt="C" src="https://github.com/user-attachments/assets/91abd1b3-6c02-48d6-9caf-bdbe0fa01d0d" width="100%" />
+      <td width="35%" align="center">
+        <img alt="C" src="https://github.com/user-attachments/assets/91abd1b3-6c02-48d6-9caf-bdbe0fa01d0d" width="65%" />
         <br>
       </td>
     </tr>
