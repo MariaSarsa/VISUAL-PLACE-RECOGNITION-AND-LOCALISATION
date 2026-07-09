@@ -92,6 +92,14 @@ The system executes sequentially through the following pipeline phases:
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Adding the old camera" src="https://github.com/user-attachments/assets/e973a5f7-d5e3-489f-ad0a-8792b5bfeb92" width="60%"/>
+    </td>
+  </tr>
+</table>
+
 
 ## Workspace
 
