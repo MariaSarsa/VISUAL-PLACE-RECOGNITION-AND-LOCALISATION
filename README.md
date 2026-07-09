@@ -95,10 +95,30 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tr>
     <td align="center">
-      <img alt="Adding the old camera" src="https://github.com/user-attachments/assets/e973a5f7-d5e3-489f-ad0a-8792b5bfeb92" width="60%"/>
+      <img alt="Adding the old camera" src="https://github.com/user-attachments/assets/f3fb0b27-c3a5-487f-a2c6-21dc45437100" width="60%"/>
     </td>
   </tr>
 </table>
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="DLT: estimating camera pose old" src="https://github.com/user-attachments/assets/2eb54dc7-dd88-45ae-92ed-bc12175afe25" width="60%"/>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Real scale" src="https://github.com/user-attachments/assets/175fcd03-78ef-4469-9d59-b2dbdd03ed17" width="60%"/>
+    </td>
+  </tr>
+</table>
+
+
+
 
 
 ## Workspace
