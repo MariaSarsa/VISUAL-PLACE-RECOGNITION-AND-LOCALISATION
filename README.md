@@ -12,8 +12,8 @@ In particular its main objective is to determine where a picture (the one used w
   </tr>
   <tr>
     <td align="center">
-      <sub><b>Figure 14:</b> Pilar basilica picture dated before 1866.<br>
-      <b>Source / Archive:</b> Obtained from <a href="https://commons.wikimedia.org/w/index.php?curid=24970366" target="_blank"></a>.</sub>
+      <sub><b>Figure:</b> Pilar basilica picture dated before 1866.<br>
+      <b>Source / Archive:</b> Obtained from <a href="https://commons.wikimedia.org/w/index.php?curid=24970366" target="_blank">Wikimedia Commons</a>.</sub>
     </td>
   </tr>
 </table>
