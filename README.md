@@ -70,7 +70,7 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tr>
     <td align="center">
-      <img alt="Structure from Motion (8 points): estimating camera 1 pose" src="https://github.com/user-attachments/assets/81e9ea85-8ee3-45f3-8708-565f3e41fbf5" width="60%"/>
+      <img alt="Structure from Motion (8 points): estimating camera 1 pose" src="https://github.com/user-attachments/assets/046f231e-2455-441a-ad2d-87b041556453" width="60%"/>
     </td>
   </tr>
 </table>
@@ -82,8 +82,6 @@ The system executes sequentially through the following pipeline phases:
     </td>
   </tr>
 </table>
-
-
 
 
 ## Workspace
