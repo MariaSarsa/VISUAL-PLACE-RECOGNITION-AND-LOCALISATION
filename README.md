@@ -59,6 +59,18 @@ The system executes sequentially through the following pipeline phases:
   </tbody>
 </table>
 
+<table>
+  <tr>
+    <td align="center">
+      <img alt="Superglue matches between modern photos" src="https://github.com/user-attachments/assets/6225760d-7a80-4d38-a2ba-8dcfd79442c3" width="60%"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+    </td>
+  </tr>
+</table>
+
 
 ## Workspace
 
