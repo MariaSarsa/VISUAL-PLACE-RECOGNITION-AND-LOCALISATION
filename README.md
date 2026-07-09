@@ -78,7 +78,7 @@ The system executes sequentially through the following pipeline phases:
 <table>
   <tr>
     <td align="center">
-      <img alt="Adding a third camera" src="https://github.com/user-attachments/assets/01df66fc-8da3-44da-bf0c-a32534c70026" width="60%"/>
+      <img alt="Adding a third camera" src="https://github.com/user-attachments/assets/d84b18ae-3c82-449c-b2ff-2eca4475fbe2" width="60%"/>
     </td>
   </tr>
 </table>
